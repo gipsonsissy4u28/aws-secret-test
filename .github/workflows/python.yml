@@ -13,8 +13,8 @@ jobs:
       - name: rotate aws keys
         uses: ./
         env:
-          AWS_ACCESS_KEY_ID: ${{ secrets.REALEYES_AWS_ACCESSKEY_ID_TEST }}
-          AWS_SECRET_ACCESS_KEY: ${{ secrets.REALEYES_AWS_SECRET_ACCESSKEY_TEST }}
-          IAM_USERNAME: 'mihaly.forras@realeyesit.com'
-          GITHUB_TOKEN: ${{ secrets.REALEYES_GITHUB_TOKEN_TEST }}
+          AWS_ACCESS_KEY_ID: ${{secret  }}
+          AWS_SECRET_ACCESS_KEY: ${{secret }}
+          IAM_USERNAME: 'username'
+          GITHUB_TOKEN: ${{token }}
           OWNER_REPOSITORY: ${{ github.repository }}

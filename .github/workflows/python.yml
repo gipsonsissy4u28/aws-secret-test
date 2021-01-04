@@ -1,0 +1,20 @@
+name: Rotate AWS keys
+
+on:
+  push:
+
+jobs:
+  rotate:
+    name: rotate iam user keys
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2.0.0
+        
+      - name: rotate aws keys
+        uses: ./
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.REALEYES_AWS_ACCESSKEY_ID_TEST }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.REALEYES_AWS_SECRET_ACCESSKEY_TEST }}
+          IAM_USERNAME: 'mihaly.forras@realeyesit.com'
+          GITHUB_TOKEN: ${{ secrets.REALEYES_GITHUB_TOKEN_TEST }}
+          OWNER_REPOSITORY: ${{ github.repository }}

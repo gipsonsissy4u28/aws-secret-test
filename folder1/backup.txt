@@ -1,1 +1,1055 @@
-{"UserDetailList": [{"Path": "/", "UserName": "adorjan.sari@realeyesit.com", "UserId": "AIDAIBFWNE2F4Y2VYGT6E", "Arn": "arn:aws:iam::380379257783:user/adorjan.sari@realeyesit.com", "CreateDate": "2019-03-01T09:41:45+00:00", "GroupList": [], "AttachedManagedPolicies": [{"PolicyName": "AdministratorAccess", "PolicyArn": "arn:aws:iam::aws:policy/AdministratorAccess"}], "Tags": []}, {"Path": "/", "UserName": "alexander.walther@realeyesit.com", "UserId": "AIDAVREC63O3XXS2CCBNF", "Arn": "arn:aws:iam::380379257783:user/alexander.walther@realeyesit.com", "CreateDate": "2019-06-26T14:04:33+00:00", "GroupList": [], "AttachedManagedPolicies": [{"PolicyName": "AdministratorAccess", "PolicyArn": "arn:aws:iam::aws:policy/AdministratorAccess"}], "Tags": []}, {"Path": "/", "UserName": "alexandra.simon@realeyes-dev.aws", "UserId": "AIDAVREC63O342WIQCTV6", "Arn": "arn:aws:iam::380379257783:user/alexandra.simon@realeyes-dev.aws", "CreateDate": "2021-05-07T09:54:00+00:00", "GroupList": ["IAM_roles_rw", "IAM_getRole"], "AttachedManagedPolicies": [{"PolicyName": "AdministratorAccess", "PolicyArn": "arn:aws:iam::aws:policy/AdministratorAccess"}, {"PolicyName": "PowerUserAccess", "PolicyArn": "arn:aws:iam::aws:policy/PowerUserAccess"}], "Tags": [{"Key": "AutoTag_Creator", "Value": "arn:aws:iam::380379257783:user/imre.kleman@realeyes-dev.aws"}, {"Key": "AutoTag_CreateTime", "Value": "2021-05-07T09:54:00Z"}]}, {"Path": "/", "UserName": "anton.chueshkov@realeyes-dev.aws", "UserId": "AIDAJEV76LJZCOE35WE72", "Arn": "arn:aws:iam::380379257783:user/anton.chueshkov@realeyes-dev.aws", "CreateDate": "2015-04-30T12:55:20+00:00", "GroupList": ["IAM_roles_rw", "IAM_getRole"], "AttachedManagedPolicies": [{"PolicyName": "AdministratorAccess", "PolicyArn": "arn:aws:iam::aws:policy/AdministratorAccess"}], "Tags": []}, {"Path": "/", "UserName": "bamboouser@realeyes-dev.aws", "UserId": "AIDAJEONYEVCDAW4MLOBG", "Arn": "arn:aws:iam::380379257783:user/bamboouser@realeyes-dev.aws", "CreateDate": "2015-05-05T10:53:29+00:00", "UserPolicyList": [{"PolicyName": "IAM-GetPassRole", "PolicyDocument": {"Version": "2012-10-17", "Statement": [{"Effect": "Allow", "Action": "iam:PassRole", "Resource": "*"}, {"Effect": "Allow", "Action": "iam:GetRole", "Resource": "*"}]}}], "GroupList": [], "AttachedManagedPolicies": [{"PolicyName": "PowerUserAccess", "PolicyArn": "arn:aws:iam::aws:policy/PowerUserAccess"}], "Tags": []}, {"Path": "/", "UserName": "daniel.takacs@realeyesit.com", "UserId": "AIDAVREC63O3S2XZH4FTN", "Arn": "arn:aws:iam::380379257783:user/daniel.takacs@realeyesit.com", "CreateDate": "2019-05-23T11:42:37+00:00", "GroupList": [], "AttachedManagedPolicies": [{"PolicyName": "PowerUserAccess", "PolicyArn": "arn:aws:iam::aws:policy/PowerUserAccess"}], "Tags": []}, {"Path": "/", "UserName": "david.bollobas@realeyes-dev.aws", "UserId": "AIDAJRYXXJETPWO24XWKS", "Arn": "arn:aws:iam::380379257783:user/david.bollobas@realeyes-dev.aws", "CreateDate": "2018-11-22T13:01:15+00:00", "GroupList": [], "AttachedManagedPolicies": [{"PolicyName": "AWSElasticBeanstalkFullAccess", "PolicyArn": "arn:aws:iam::aws:policy/AWSElasticBeanstalkFullAccess"}, {"PolicyName": "PowerUserAccess", "PolicyArn": "arn:aws:iam::aws:policy/PowerUserAccess"}], "Tags": []}, {"Path": "/", "UserName": "gabor.lerant@realeyes-dev.aws", "UserId": "AIDAJW3IZMOURJJKXHGNI", "Arn": "arn:aws:iam::380379257783:user/gabor.lerant@realeyes-dev.aws", "CreateDate": "2017-11-13T16:58:59+00:00", "GroupList": [], "AttachedManagedPolicies": [{"PolicyName": "AdministratorAccess", "PolicyArn": "arn:aws:iam::aws:policy/AdministratorAccess"}, {"PolicyName": "PowerUserAccess", "PolicyArn": "arn:aws:iam::aws:policy/PowerUserAccess"}], "Tags": []}, {"Path": "/", "UserName": "gyula.krajczar@realeyes-dev.aws", "UserId": "AIDAIASIV4LAXYPPCSL2E", "Arn": "arn:aws:iam::380379257783:user/gyula.krajczar@realeyes-dev.aws", "CreateDate": "2017-06-26T15:06:53+00:00", "GroupList": ["IAM_roles_rw", "IAM_readonly", "IAM_getRole"], "AttachedManagedPolicies": [{"PolicyName": "AWSOpsWorksFullAccess", "PolicyArn": "arn:aws:iam::aws:policy/AWSOpsWorksFullAccess"}, {"PolicyName": "PowerUserAccess", "PolicyArn": "arn:aws:iam::aws:policy/PowerUserAccess"}], "Tags": []}, {"Path": "/", "UserName": "imre.kleman@realeyes-dev.aws", "UserId": "AIDAJ6JR3DR3WVHXZK5X2", "Arn": "arn:aws:iam::380379257783:user/imre.kleman@realeyes-dev.aws", "CreateDate": "2016-07-01T15:24:39+00:00", "GroupList": [], "AttachedManagedPolicies": [{"PolicyName": "Billing", "PolicyArn": "arn:aws:iam::aws:policy/job-function/Billing"}, {"PolicyName": "AdministratorAccess", "PolicyArn": "arn:aws:iam::aws:policy/AdministratorAccess"}], "Tags": []}, {"Path": "/", "UserName": "mate.kovacs@realeyes-dev.aws", "UserId": "AIDAIP4NPNLPF35AXN4F4", "Arn": "arn:aws:iam::380379257783:user/mate.kovacs@realeyes-dev.aws", "CreateDate": "2017-11-13T10:41:27+00:00", "GroupList": [], "AttachedManagedPolicies": [{"PolicyName": "AdministratorAccess", "PolicyArn": "arn:aws:iam::aws:policy/AdministratorAccess"}, {"PolicyName": "PowerUserAccess", "PolicyArn": "arn:aws:iam::aws:policy/PowerUserAccess"}], "Tags": []}, {"Path": "/", "UserName": "mihaly.forras@realeyes-dev.aws", "UserId": "AIDAVREC63O376D5UBKSZ", "Arn": "arn:aws:iam::380379257783:user/mihaly.forras@realeyes-dev.aws", "CreateDate": "2021-07-02T09:43:02+00:00", "GroupList": [], "AttachedManagedPolicies": [{"PolicyName": "Billing", "PolicyArn": "arn:aws:iam::aws:policy/job-function/Billing"}, {"PolicyName": "AdministratorAccess", "PolicyArn": "arn:aws:iam::aws:policy/AdministratorAccess"}], "Tags": [{"Key": "AutoTag_Creator", "Value": "arn:aws:iam::380379257783:user/imre.kleman@realeyes-dev.aws"}, {"Key": "AutoTag_CreateTime", "Value": "2021-07-02T09:43:02Z"}]}, {"Path": "/", "UserName": "tamas.tobi@realeyes-dev.aws", "UserId": "AIDAJ6FTJMJKO37S5GPKI", "Arn": "arn:aws:iam::380379257783:user/tamas.tobi@realeyes-dev.aws", "CreateDate": "2015-03-04T10:24:22+00:00", "GroupList": ["IAM_getRole"], "AttachedManagedPolicies": [{"PolicyName": "AdministratorAccess", "PolicyArn": "arn:aws:iam::aws:policy/AdministratorAccess"}], "Tags": []}, {"Path": "/", "UserName": "technical.bamboo@realeyes-dev.aws", "UserId": "AIDAI54PEXGBVQTRN53DM", "Arn": "arn:aws:iam::380379257783:user/technical.bamboo@realeyes-dev.aws", "CreateDate": "2017-04-07T09:43:03+00:00", "GroupList": ["IAM_roles_rw"], "AttachedManagedPolicies": [{"PolicyName": "AmazonS3FullAccess", "PolicyArn": "arn:aws:iam::aws:policy/AmazonS3FullAccess"}, {"PolicyName": "AdministratorAccess", "PolicyArn": "arn:aws:iam::aws:policy/AdministratorAccess"}, {"PolicyName": "AmazonAppStreamReadOnlyAccess", "PolicyArn": "arn:aws:iam::aws:policy/AmazonAppStreamReadOnlyAccess"}, {"PolicyName": "PowerUserAccess", "PolicyArn": "arn:aws:iam::aws:policy/PowerUserAccess"}], "Tags": []}, {"Path": "/", "UserName": "vladislav.stolyarov@realeyes-dev.aws", "UserId": "AIDAJESIJMD2CEO67YHNK", "Arn": "arn:aws:iam::380379257783:user/vladislav.stolyarov@realeyes-dev.aws", "CreateDate": "2019-02-26T13:20:57+00:00", "GroupList": ["IAM_roles_rw", "IAM_readonly", "IAM_getRole"], "AttachedManagedPolicies": [{"PolicyName": "AWSOpsWorksFullAccess", "PolicyArn": "arn:aws:iam::aws:policy/AWSOpsWorksFullAccess"}, {"PolicyName": "AdministratorAccess", "PolicyArn": "arn:aws:iam::aws:policy/AdministratorAccess"}, {"PolicyName": "PowerUserAccess", "PolicyArn": "arn:aws:iam::aws:policy/PowerUserAccess"}], "Tags": []}, {"Path": "/", "UserName": "webdev-pool@realeyes-dev.aws", "UserId": "AIDAINCKDRJSHHZHFUTDM", "Arn": "arn:aws:iam::380379257783:user/webdev-pool@realeyes-dev.aws", "CreateDate": "2015-03-13T15:49:29+00:00", "GroupList": ["IAM_getRole"], "AttachedManagedPolicies": [{"PolicyName": "PowerUserAccess", "PolicyArn": "arn:aws:iam::aws:policy/PowerUserAccess"}], "Tags": []}], "GroupDetailList": [], "RoleDetailList": [{"Path": "/", "RoleName": "aaa", "RoleId": "AROAJKJNMBOCEYQJO4HQU", "Arn": "arn:aws:iam::380379257783:role/aaa", "CreateDate": "2018-01-19T10:22:17+00:00", "AssumeRolePolicyDocument": {"Version": "2012-10-17", "Statement": [{"Sid": "", "Effect": "Allow", "Principal": {"Service": "codedeploy.amazonaws.com"}, "Action": "sts:AssumeRole"}]}, "InstanceProfileList": [], "RolePolicyList": [], "AttachedManagedPolicies": [{"PolicyName": "AWSCodeDeployRole", "PolicyArn": "arn:aws:iam::aws:policy/service-role/AWSCodeDeployRole"}], "Tags": [], "RoleLastUsed": {}}, {"Path": "/", "RoleName": "ADFS-Admin", "RoleId": "AROAJQCRL2LDNM252TSGQ", "Arn": "arn:aws:iam::380379257783:role/ADFS-Admin", "CreateDate": "2015-03-04T13:20:14+00:00", "AssumeRolePolicyDocument": {"Version": "2012-10-17", "Statement": [{"Sid": "", "Effect": "Allow", "Principal": {"Federated": "arn:aws:iam::380379257783:saml-provider/ADFS"}, "Action": "sts:AssumeRoleWithSAML", "Condition": {"StringEquals": {"SAML:aud": "https://signin.aws.amazon.com/saml"}}}]}, "InstanceProfileList": [], "RolePolicyList": [], "AttachedManagedPolicies": [{"PolicyName": "AdministratorAccess", "PolicyArn": "arn:aws:iam::aws:policy/AdministratorAccess"}], "Tags": [], "RoleLastUsed": {}}, {"Path": "/", "RoleName": "ADFS-PowerUser", "RoleId": "AROAIZ2ELVBJ7SEGBSHDM", "Arn": "arn:aws:iam::380379257783:role/ADFS-PowerUser", "CreateDate": "2015-03-04T14:12:10+00:00", "AssumeRolePolicyDocument": {"Version": "2012-10-17", "Statement": [{"Sid": "", "Effect": "Allow", "Principal": {"Federated": "arn:aws:iam::380379257783:saml-provider/ADFS"}, "Action": "sts:AssumeRoleWithSAML", "Condition": {"StringEquals": {"SAML:aud": "https://signin.aws.amazon.com/saml"}}}]}, "InstanceProfileList": [], "RolePolicyList": [], "AttachedManagedPolicies": [{"PolicyName": "PowerUserAccess", "PolicyArn": "arn:aws:iam::aws:policy/PowerUserAccess"}], "Tags": [], "RoleLastUsed": {}}, {"Path": "/", "RoleName": "ADFS-Test", "RoleId": "AROAIBCYR6YSQ6VKPAZPO", "Arn": "arn:aws:iam::380379257783:role/ADFS-Test", "CreateDate": "2015-03-05T14:55:24+00:00", "AssumeRolePolicyDocument": {"Version": "2012-10-17", "Statement": [{"Sid": "", "Effect": "Allow", "Principal": {"Federated": "arn:aws:iam::380379257783:saml-provider/ADFS"}, "Action": "sts:AssumeRoleWithSAML", "Condition": {"StringEquals": {"SAML:iss": "urn:realeyesit.com"}}}]}, "InstanceProfileList": [], "RolePolicyList": [], "AttachedManagedPolicies": [{"PolicyName": "PowerUserAccess", "PolicyArn": "arn:aws:iam::aws:policy/PowerUserAccess"}], "Tags": [], "RoleLastUsed": {}}, {"Path": "/", "RoleName": "AdminFromMainAccount", "RoleId": "AROAVREC63O3U7WOODTYV", "Arn": "arn:aws:iam::380379257783:role/AdminFromMainAccount", "CreateDate": "2019-05-10T13:55:18+00:00", "AssumeRolePolicyDocument": {"Version": "2012-10-17", "Statement": [{"Effect": "Allow", "Principal": {"AWS": "arn:aws:iam::249265253269:root"}, "Action": "sts:AssumeRole", "Condition": {}}]}, "InstanceProfileList": [], "RolePolicyList": [], "AttachedManagedPolicies": [{"PolicyName": "AdministratorAccess", "PolicyArn": "arn:aws:iam::aws:policy/AdministratorAccess"}], "Tags": [], "RoleLastUsed": {}}, {"Path": "/service-role/", "RoleName": "AmazonMWAA-MyAirflowEnvironment-XdU29g", "RoleId": "AROAVREC63O33NLYRNDIX", "Arn": "arn:aws:iam::380379257783:role/service-role/AmazonMWAA-MyAirflowEnvironment-XdU29g", "CreateDate": "2021-05-07T13:35:28+00:00", "AssumeRolePolicyDocument": {"Version": "2012-10-17", "Statement": [{"Effect": "Allow", "Principal": {"Service": ["airflow-env.amazonaws.com", "airflow.amazonaws.com"]}, "Action": "sts:AssumeRole"}]}, "InstanceProfileList": [], "RolePolicyList": [], "AttachedManagedPolicies": [{"PolicyName": "MWAA-Execution-Policy-4fe4608b-a3e0-4892-81e1-98e8470a9898", "PolicyArn": "arn:aws:iam::380379257783:policy/service-role/MWAA-Execution-Policy-4fe4608b-a3e0-4892-81e1-98e8470a9898"}], "Tags": [], "RoleLastUsed": {"LastUsedDate": "2021-05-07T17:11:55+00:00", "Region": "eu-west-1"}}, {"Path": "/", "RoleName": "api-gateway-logs", "RoleId": "AROAVREC63O3YNZSPFLTW", "Arn": "arn:aws:iam::380379257783:role/api-gateway-logs", "CreateDate": "2019-07-29T09:12:12+00:00", "AssumeRolePolicyDocument": {"Version": "2012-10-17", "Statement": [{"Sid": "", "Effect": "Allow", "Principal": {"Service": "apigateway.amazonaws.com"}, "Action": "sts:AssumeRole"}]}, "InstanceProfileList": [], "RolePolicyList": [], "AttachedManagedPolicies": [{"PolicyName": "AmazonAPIGatewayPushToCloudWatchLogs", "PolicyArn": "arn:aws:iam::aws:policy/service-role/AmazonAPIGatewayPushToCloudWatchLogs"}], "Tags": [], "RoleLastUsed": {}}, {"Path": "/", "RoleName": "aspnetcore-api-2015-GetRole-1GIWM2VR659GJ", "RoleId": "AROAJ3US6RSAATKWYFXA6", "Arn": "arn:aws:iam::380379257783:role/aspnetcore-api-2015-GetRole-1GIWM2VR659GJ", "CreateDate": "2017-03-28T14:32:19+00:00", "AssumeRolePolicyDocument": {"Version": "2012-10-17", "Statement": [{"Effect": "Allow", "Principal": {"Service": "lambda.amazonaws.com"}, "Action": "sts:AssumeRole"}]}, "InstanceProfileList": [], "RolePolicyList": [], "AttachedManagedPolicies": [{"PolicyName": "AWSLambdaFullAccess", "PolicyArn": "arn:aws:iam::aws:policy/AWSLambdaFullAccess"}, {"PolicyName": "AWSLambdaBasicExecutionRole", "PolicyArn": "arn:aws:iam::aws:policy/service-role/AWSLambdaBasicExecutionRole"}], "Tags": [], "RoleLastUsed": {}}, {"Path": "/", "RoleName": "aspnetcore-api-poc-GetRole-1MFQVIXJ9S4V5", "RoleId": "AROAIDFTSX6WA5Z5RIVH4", "Arn": "arn:aws:iam::380379257783:role/aspnetcore-api-poc-GetRole-1MFQVIXJ9S4V5", "CreateDate": "2017-03-28T11:47:27+00:00", "AssumeRolePolicyDocument": {"Version": "2012-10-17", "Statement": [{"Effect": "Allow", "Principal": {"Service": "lambda.amazonaws.com"}, "Action": "sts:AssumeRole"}]}, "InstanceProfileList": [], "RolePolicyList": [], "AttachedManagedPolicies": [{"PolicyName": "AWSLambdaFullAccess", "PolicyArn": "arn:aws:iam::aws:policy/AWSLambdaFullAccess"}, {"PolicyName": "AWSLambdaBasicExecutionRole", "PolicyArn": "arn:aws:iam::aws:policy/service-role/AWSLambdaBasicExecutionRole"}], "Tags": [], "RoleLastUsed": {}}, {"Path": "/", "RoleName": "aws-csharp-dev-us-east-1-lambdaRole", "RoleId": "AROAJDBKME2PHTWI5XPAI", "Arn": "arn:aws:iam::380379257783:role/aws-csharp-dev-us-east-1-lambdaRole", "CreateDate": "2017-03-28T14:41:39+00:00", "AssumeRolePolicyDocument": {"Version": "2012-10-17", "Statement": [{"Effect": "Allow", "Principal": {"Service": "lambda.amazonaws.com"}, "Action": "sts:AssumeRole"}]}, "InstanceProfileList": [], "RolePolicyList": [{"PolicyName": "dev-aws-csharp-lambda", "PolicyDocument": {"Version": "2012-10-17", "Statement": [{"Action": ["logs:CreateLogStream"], "Resource": ["arn:aws:logs:us-east-1:380379257783:log-group:/aws/lambda/aws-csharp-dev-hello:*"], "Effect": "Allow"}, {"Action": ["logs:PutLogEvents"], "Resource": ["arn:aws:logs:us-east-1:380379257783:log-group:/aws/lambda/aws-csharp-dev-hello:*:*"], "Effect": "Allow"}]}}], "AttachedManagedPolicies": [], "Tags": [], "RoleLastUsed": {}}, {"Path": "/", "RoleName": "aws-elasticbeanstalk-ec2-role", "RoleId": "AROAID4TEYGWGBOAUTGNE", "Arn": "arn:aws:iam::380379257783:role/aws-elasticbeanstalk-ec2-role", "CreateDate": "2015-03-04T14:18:35+00:00", "AssumeRolePolicyDocument": {"Version": "2008-10-17", "Statement": [{"Sid": "", "Effect": "Allow", "Principal": {"Service": "ec2.amazonaws.com"}, "Action": "sts:AssumeRole"}]}, "InstanceProfileList": [{"Path": "/", "InstanceProfileName": "aws-elasticbeanstalk-ec2-role", "InstanceProfileId": "AIPAJZKR5FROL43NRXEUC", "Arn": "arn:aws:iam::380379257783:instance-profile/aws-elasticbeanstalk-ec2-role", "CreateDate": "2015-03-04T14:18:36+00:00", "Roles": [{"Path": "/", "RoleName": "aws-elasticbeanstalk-ec2-role", "RoleId": "AROAID4TEYGWGBOAUTGNE", "Arn": "arn:aws:iam::380379257783:role/aws-elasticbeanstalk-ec2-role", "CreateDate": "2015-03-04T14:18:35+00:00", "AssumeRolePolicyDocument": {"Version": "2008-10-17", "Statement": [{"Sid": "", "Effect": "Allow", "Principal": {"Service": "ec2.amazonaws.com"}, "Action": "sts:AssumeRole"}]}}]}], "RolePolicyList": [{"PolicyName": "AssumeRole", "PolicyDocument": {"Version": "2012-10-17", "Statement": [{"Sid": "", "Effect": "Allow", "Action": "sts:AssumeRole", "Resource": "*"}]}}], "AttachedManagedPolicies": [{"PolicyName": "PowerUserAccess", "PolicyArn": "arn:aws:iam::aws:policy/PowerUserAccess"}], "Tags": [], "RoleLastUsed": {"LastUsedDate": "2021-07-26T11:29:46+00:00", "Region": "eu-west-1"}}, {"Path": "/", "RoleName": "aws-elasticbeanstalk-ec2-role-2", "RoleId": "AROAJCK6NUABYW2O7GRRU", "Arn": "arn:aws:iam::380379257783:role/aws-elasticbeanstalk-ec2-role-2", "CreateDate": "2015-09-02T15:47:02+00:00", "AssumeRolePolicyDocument": {"Version": "2012-10-17", "Statement": [{"Sid": "1", "Effect": "Allow", "Principal": {"Service": "ec2.amazonaws.com"}, "Action": "sts:AssumeRole"}, {"Sid": "2", "Effect": "Allow", "Principal": {"Service": "ecs.amazonaws.com"}, "Action": "sts:AssumeRole"}, {"Sid": "3", "Effect": "Allow", "Principal": {"Service": "elasticbeanstalk.amazonaws.com"}, "Action": "sts:AssumeRole"}]}, "InstanceProfileList": [{"Path": "/", "InstanceProfileName": "aws-elasticbeanstalk-ec2-role-2", "InstanceProfileId": "AIPAIXEB6H4RQFEUYFYN2", "Arn": "arn:aws:iam::380379257783:instance-profile/aws-elasticbeanstalk-ec2-role-2", "CreateDate": "2015-09-02T15:47:02+00:00", "Roles": [{"Path": "/", "RoleName": "aws-elasticbeanstalk-ec2-role-2", "RoleId": "AROAJCK6NUABYW2O7GRRU", "Arn": "arn:aws:iam::380379257783:role/aws-elasticbeanstalk-ec2-role-2", "CreateDate": "2015-09-02T15:47:02+00:00", "AssumeRolePolicyDocument": {"Version": "2012-10-17", "Statement": [{"Sid": "1", "Effect": "Allow", "Principal": {"Service": "ec2.amazonaws.com"}, "Action": "sts:AssumeRole"}, {"Sid": "2", "Effect": "Allow", "Principal": {"Service": "ecs.amazonaws.com"}, "Action": "sts:AssumeRole"}, {"Sid": "3", "Effect": "Allow", "Principal": {"Service": "elasticbeanstalk.amazonaws.com"}, "Action": "sts:AssumeRole"}]}}]}], "RolePolicyList": [], "AttachedManagedPolicies": [{"PolicyName": "PowerUserAccess", "PolicyArn": "arn:aws:iam::aws:policy/PowerUserAccess"}], "Tags": [], "RoleLastUsed": {"LastUsedDate": "2021-07-26T08:17:49+00:00", "Region": "eu-west-1"}}, {"Path": "/", "RoleName": "aws-elasticbeanstalk-service-role", "RoleId": "AROAJYDOJSO7SVPK7JPS2", "Arn": "arn:aws:iam::380379257783:role/aws-elasticbeanstalk-service-role", "CreateDate": "2016-05-11T13:51:44+00:00", "AssumeRolePolicyDocument": {"Version": "2012-10-17", "Statement": [{"Sid": "", "Effect": "Allow", "Principal": {"Service": "elasticbeanstalk.amazonaws.com"}, "Action": "sts:AssumeRole", "Condition": {"StringEquals": {"sts:ExternalId": "elasticbeanstalk"}}}]}, "InstanceProfileList": [], "RolePolicyList": [], "AttachedManagedPolicies": [], "Tags": [], "RoleLastUsed": {"LastUsedDate": "2021-07-26T11:33:16+00:00", "Region": "eu-west-1"}}, {"Path": "/", "RoleName": "aws-opsworks-ec2-role", "RoleId": "AROAI6GIA5XVMRGYXR34A", "Arn": "arn:aws:iam::380379257783:role/aws-opsworks-ec2-role", "CreateDate": "2015-11-10T15:08:39+00:00", "AssumeRolePolicyDocument": {"Version": "2008-10-17", "Statement": [{"Effect": "Allow", "Principal": {"Service": "ec2.amazonaws.com"}, "Action": "sts:AssumeRole"}]}, "InstanceProfileList": [{"Path": "/", "InstanceProfileName": "aws-opsworks-ec2-role", "InstanceProfileId": "AIPAJAAMSJMQSMAEGBYHS", "Arn": "arn:aws:iam::380379257783:instance-profile/aws-opsworks-ec2-role", "CreateDate": "2015-11-10T15:08:39+00:00", "Roles": [{"Path": "/", "RoleName": "aws-opsworks-ec2-role", "RoleId": "AROAI6GIA5XVMRGYXR34A", "Arn": "arn:aws:iam::380379257783:role/aws-opsworks-ec2-role", "CreateDate": "2015-11-10T15:08:39+00:00", "AssumeRolePolicyDocument": {"Version": "2008-10-17", "Statement": [{"Effect": "Allow", "Principal": {"Service": "ec2.amazonaws.com"}, "Action": "sts:AssumeRole"}]}}]}], "RolePolicyList": [], "AttachedManagedPolicies": [], "Tags": [], "RoleLastUsed": {}}, {"Path": "/", "RoleName": "aws-opsworks-service-role", "RoleId": "AROAJZU6GD2BTECL67ONI", "Arn": "arn:aws:iam::380379257783:role/aws-opsworks-service-role", "CreateDate": "2015-11-10T15:08:39+00:00", "AssumeRolePolicyDocument": {"Version": "2008-10-17", "Statement": [{"Effect": "Allow", "Principal": {"Service": "opsworks.amazonaws.com"}, "Action": "sts:AssumeRole"}]}, "InstanceProfileList": [], "RolePolicyList": [{"PolicyName": "aws-opsworks-service-policy", "PolicyDocument": {"Statement": [{"Action": ["ec2:*", "iam:PassRole", "cloudwatch:GetMetricStatistics", "cloudwatch:DescribeAlarms", "ecs:*", "elasticloadbalancing:*", "rds:*"], "Effect": "Allow", "Resource": ["*"]}]}}], "AttachedManagedPolicies": [], "Tags": [], "RoleLastUsed": {}}, {"Path": "/", "RoleName": "AWSCloudFormationStackSetExecutionRole", "RoleId": "AROAVREC63O36AWJOEEWO", "Arn": "arn:aws:iam::380379257783:role/AWSCloudFormationStackSetExecutionRole", "CreateDate": "2019-11-04T16:32:36+00:00", "AssumeRolePolicyDocument": {"Version": "2012-10-17", "Statement": [{"Effect": "Allow", "Principal": {"AWS": "arn:aws:iam::249265253269:root"}, "Action": "sts:AssumeRole"}]}, "InstanceProfileList": [], "RolePolicyList": [], "AttachedManagedPolicies": [{"PolicyName": "AdministratorAccess", "PolicyArn": "arn:aws:iam::aws:policy/AdministratorAccess"}], "Tags": [{"Key": "Team", "Value": "Infra"}], "RoleLastUsed": {}}, {"Path": "/aws-service-role/es.amazonaws.com/", "RoleName": "AWSServiceRoleForAmazonElasticsearchService", "RoleId": "AROAVREC63O3UREBNE6S3", "Arn": "arn:aws:iam::380379257783:role/aws-service-role/es.amazonaws.com/AWSServiceRoleForAmazonElasticsearchService", "CreateDate": "2019-03-28T07:16:51+00:00", "AssumeRolePolicyDocument": {"Version": "2012-10-17", "Statement": [{"Effect": "Allow", "Principal": {"Service": "es.amazonaws.com"}, "Action": "sts:AssumeRole"}]}, "InstanceProfileList": [], "RolePolicyList": [], "AttachedManagedPolicies": [{"PolicyName": "AmazonElasticsearchServiceRolePolicy", "PolicyArn": "arn:aws:iam::aws:policy/aws-service-role/AmazonElasticsearchServiceRolePolicy"}], "Tags": [], "RoleLastUsed": {}}, {"Path": "/aws-service-role/airflow.amazonaws.com/", "RoleName": "AWSServiceRoleForAmazonMWAA", "RoleId": "AROAVREC63O35O3MDX54W", "Arn": "arn:aws:iam::380379257783:role/aws-service-role/airflow.amazonaws.com/AWSServiceRoleForAmazonMWAA", "CreateDate": "2021-05-07T13:35:42+00:00", "AssumeRolePolicyDocument": {"Version": "2012-10-17", "Statement": [{"Effect": "Allow", "Principal": {"Service": "airflow.amazonaws.com"}, "Action": "sts:AssumeRole"}]}, "InstanceProfileList": [], "RolePolicyList": [], "AttachedManagedPolicies": [{"PolicyName": "AmazonMWAAServiceRolePolicy", "PolicyArn": "arn:aws:iam::aws:policy/aws-service-role/AmazonMWAAServiceRolePolicy"}], "Tags": [], "RoleLastUsed": {"LastUsedDate": "2021-05-07T17:12:32+00:00", "Region": "eu-west-1"}}, {"Path": "/aws-service-role/dynamodb.application-autoscaling.amazonaws.com/", "RoleName": "AWSServiceRoleForApplicationAutoScaling_DynamoDBTable", "RoleId": "AROAIVTZD2EBYC5VJTWO4", "Arn": "arn:aws:iam::380379257783:role/aws-service-role/dynamodb.application-autoscaling.amazonaws.com/AWSServiceRoleForApplicationAutoScaling_DynamoDBTable", "CreateDate": "2018-01-16T11:01:30+00:00", "AssumeRolePolicyDocument": {"Version": "2012-10-17", "Statement": [{"Effect": "Allow", "Principal": {"Service": "dynamodb.application-autoscaling.amazonaws.com"}, "Action": "sts:AssumeRole"}]}, "InstanceProfileList": [], "RolePolicyList": [], "AttachedManagedPolicies": [{"PolicyName": "AWSApplicationAutoscalingDynamoDBTablePolicy", "PolicyArn": "arn:aws:iam::aws:policy/aws-service-role/AWSApplicationAutoscalingDynamoDBTablePolicy"}], "Tags": [], "RoleLastUsed": {"LastUsedDate": "2021-07-26T11:24:24+00:00", "Region": "eu-west-1"}}, {"Path": "/aws-service-role/autoscaling.amazonaws.com/", "RoleName": "AWSServiceRoleForAutoScaling", "RoleId": "AROAI3M4YHLSFWSRUZDD6", "Arn": "arn:aws:iam::380379257783:role/aws-service-role/autoscaling.amazonaws.com/AWSServiceRoleForAutoScaling", "CreateDate": "2018-03-03T01:50:58+00:00", "AssumeRolePolicyDocument": {"Version": "2012-10-17", "Statement": [{"Effect": "Allow", "Principal": {"Service": "autoscaling.amazonaws.com"}, "Action": "sts:AssumeRole"}]}, "InstanceProfileList": [], "RolePolicyList": [], "AttachedManagedPolicies": [{"PolicyName": "AutoScalingServiceRolePolicy", "PolicyArn": "arn:aws:iam::aws:policy/aws-service-role/AutoScalingServiceRolePolicy"}], "Tags": [], "RoleLastUsed": {"LastUsedDate": "2021-07-26T11:32:32+00:00", "Region": "us-west-2"}}, {"Path": "/aws-service-role/logger.cloudfront.amazonaws.com/", "RoleName": "AWSServiceRoleForCloudFrontLogger", "RoleId": "AROAVREC63O33EPWQBNW7", "Arn": "arn:aws:iam::380379257783:role/aws-service-role/logger.cloudfront.amazonaws.com/AWSServiceRoleForCloudFrontLogger", "CreateDate": "2019-09-18T14:00:15+00:00", "AssumeRolePolicyDocument": {"Version": "2012-10-17", "Statement": [{"Effect": "Allow", "Principal": {"Service": "logger.cloudfront.amazonaws.com"}, "Action": "sts:AssumeRole"}]}, "InstanceProfileList": [], "RolePolicyList": [], "AttachedManagedPolicies": [{"PolicyName": "AWSCloudFrontLogger", "PolicyArn": "arn:aws:iam::aws:policy/aws-service-role/AWSCloudFrontLogger"}], "Tags": [], "RoleLastUsed": {}}, {"Path": "/aws-service-role/cloudwatch-crossaccount.amazonaws.com/", "RoleName": "AWSServiceRoleForCloudWatchCrossAccount", "RoleId": "AROAVREC63O3RZD7I4MC3", "Arn": "arn:aws:iam::380379257783:role/aws-service-role/cloudwatch-crossaccount.amazonaws.com/AWSServiceRoleForCloudWatchCrossAccount", "CreateDate": "2019-11-14T10:41:25+00:00", "AssumeRolePolicyDocument": {"Version": "2012-10-17", "Statement": [{"Effect": "Allow", "Principal": {"Service": "cloudwatch-crossaccount.amazonaws.com"}, "Action": "sts:AssumeRole"}]}, "InstanceProfileList": [], "RolePolicyList": [], "AttachedManagedPolicies": [{"PolicyName": "CloudWatch-CrossAccountAccess", "PolicyArn": "arn:aws:iam::aws:policy/aws-service-role/CloudWatch-CrossAccountAccess"}], "Tags": [], "RoleLastUsed": {}}, {"Path": "/aws-service-role/events.amazonaws.com/", "RoleName": "AWSServiceRoleForCloudWatchEvents", "RoleId": "AROAVREC63O37YX7BZ4VB", "Arn": "arn:aws:iam::380379257783:role/aws-service-role/events.amazonaws.com/AWSServiceRoleForCloudWatchEvents", "CreateDate": "2020-04-17T10:13:24+00:00", "AssumeRolePolicyDocument": {"Version": "2012-10-17", "Statement": [{"Effect": "Allow", "Principal": {"Service": "events.amazonaws.com"}, "Action": "sts:AssumeRole"}]}, "InstanceProfileList": [], "RolePolicyList": [], "AttachedManagedPolicies": [{"PolicyName": "CloudWatchEventsServiceRolePolicy", "PolicyArn": "arn:aws:iam::aws:policy/aws-service-role/CloudWatchEventsServiceRolePolicy"}], "Tags": [], "RoleLastUsed": {}}, {"Path": "/aws-service-role/ecs.amazonaws.com/", "RoleName": "AWSServiceRoleForECS", "RoleId": "AROAJQOPU2RX7R7PQ53XC", "Arn": "arn:aws:iam::380379257783:role/aws-service-role/ecs.amazonaws.com/AWSServiceRoleForECS", "CreateDate": "2018-02-10T13:23:14+00:00", "AssumeRolePolicyDocument": {"Version": "2012-10-17", "Statement": [{"Effect": "Allow", "Principal": {"Service": "ecs.amazonaws.com"}, "Action": "sts:AssumeRole"}]}, "InstanceProfileList": [], "RolePolicyList": [], "AttachedManagedPolicies": [{"PolicyName": "AmazonECSServiceRolePolicy", "PolicyArn": "arn:aws:iam::aws:policy/aws-service-role/AmazonECSServiceRolePolicy"}], "Tags": [], "RoleLastUsed": {}}, {"Path": "/aws-service-role/elasticbeanstalk.amazonaws.com/", "RoleName": "AWSServiceRoleForElasticBeanstalk", "RoleId": "AROAJ3ONEL32BOUOS7KYY", "Arn": "arn:aws:iam::380379257783:role/aws-service-role/elasticbeanstalk.amazonaws.com/AWSServiceRoleForElasticBeanstalk", "CreateDate": "2017-09-27T21:03:47+00:00", "AssumeRolePolicyDocument": {"Version": "2012-10-17", "Statement": [{"Effect": "Allow", "Principal": {"Service": "elasticbeanstalk.amazonaws.com"}, "Action": "sts:AssumeRole"}]}, "InstanceProfileList": [], "RolePolicyList": [], "AttachedManagedPolicies": [{"PolicyName": "AWSElasticBeanstalkServiceRolePolicy", "PolicyArn": "arn:aws:iam::aws:policy/aws-service-role/AWSElasticBeanstalkServiceRolePolicy"}], "Tags": [], "RoleLastUsed": {"LastUsedDate": "2021-07-26T11:36:42+00:00", "Region": "us-west-2"}}, {"Path": "/aws-service-role/elasticloadbalancing.amazonaws.com/", "RoleName": "AWSServiceRoleForElasticLoadBalancing", "RoleId": "AROAIA6R5WARSHXVCXU5C", "Arn": "arn:aws:iam::380379257783:role/aws-service-role/elasticloadbalancing.amazonaws.com/AWSServiceRoleForElasticLoadBalancing", "CreateDate": "2018-01-18T17:19:41+00:00", "AssumeRolePolicyDocument": {"Version": "2012-10-17", "Statement": [{"Effect": "Allow", "Principal": {"Service": "elasticloadbalancing.amazonaws.com"}, "Action": "sts:AssumeRole"}]}, "InstanceProfileList": [], "RolePolicyList": [], "AttachedManagedPolicies": [{"PolicyName": "AWSElasticLoadBalancingServiceRolePolicy", "PolicyArn": "arn:aws:iam::aws:policy/aws-service-role/AWSElasticLoadBalancingServiceRolePolicy"}], "Tags": [], "RoleLastUsed": {"LastUsedDate": "2021-05-15T01:31:40+00:00", "Region": "us-west-2"}}, {"Path": "/aws-service-role/replicator.lambda.amazonaws.com/", "RoleName": "AWSServiceRoleForLambdaReplicator", "RoleId": "AROAIJK4GHGMPFK2BTHHG", "Arn": "arn:aws:iam::380379257783:role/aws-service-role/replicator.lambda.amazonaws.com/AWSServiceRoleForLambdaReplicator", "CreateDate": "2017-12-06T22:48:53+00:00", "AssumeRolePolicyDocument": {"Version": "2012-10-17", "Statement": [{"Effect": "Allow", "Principal": {"Service": "replicator.lambda.amazonaws.com"}, "Action": "sts:AssumeRole"}]}, "InstanceProfileList": [], "RolePolicyList": [], "AttachedManagedPolicies": [{"PolicyName": "AWSLambdaReplicator", "PolicyArn": "arn:aws:iam::aws:policy/aws-service-role/AWSLambdaReplicator"}], "Tags": [], "RoleLastUsed": {}}, {"Path": "/aws-service-role/organizations.amazonaws.com/", "RoleName": "AWSServiceRoleForOrganizations", "RoleId": "AROAVREC63O3X3ZX4HMS6", "Arn": "arn:aws:iam::380379257783:role/aws-service-role/organizations.amazonaws.com/AWSServiceRoleForOrganizations", "CreateDate": "2021-07-19T09:06:23+00:00", "AssumeRolePolicyDocument": {"Version": "2012-10-17", "Statement": [{"Effect": "Allow", "Principal": {"Service": "organizations.amazonaws.com"}, "Action": "sts:AssumeRole"}]}, "InstanceProfileList": [], "RolePolicyList": [], "AttachedManagedPolicies": [{"PolicyName": "AWSOrganizationsServiceTrustPolicy", "PolicyArn": "arn:aws:iam::aws:policy/aws-service-role/AWSOrganizationsServiceTrustPolicy"}], "Tags": [], "RoleLastUsed": {}}, {"Path": "/aws-service-role/rds.amazonaws.com/", "RoleName": "AWSServiceRoleForRDS", "RoleId": "AROAVREC63O3TKJZEUUE5", "Arn": "arn:aws:iam::380379257783:role/aws-service-role/rds.amazonaws.com/AWSServiceRoleForRDS", "CreateDate": "2019-06-06T11:01:44+00:00", "AssumeRolePolicyDocument": {"Version": "2012-10-17", "Statement": [{"Effect": "Allow", "Principal": {"Service": "rds.amazonaws.com"}, "Action": "sts:AssumeRole"}]}, "InstanceProfileList": [], "RolePolicyList": [], "AttachedManagedPolicies": [{"PolicyName": "AmazonRDSServiceRolePolicy", "PolicyArn": "arn:aws:iam::aws:policy/aws-service-role/AmazonRDSServiceRolePolicy"}], "Tags": [], "RoleLastUsed": {}}, {"Path": "/aws-service-role/redshift.amazonaws.com/", "RoleName": "AWSServiceRoleForRedshift", "RoleId": "AROAVREC63O3YSLI46FAK", "Arn": "arn:aws:iam::380379257783:role/aws-service-role/redshift.amazonaws.com/AWSServiceRoleForRedshift", "CreateDate": "2019-06-26T17:58:06+00:00", "AssumeRolePolicyDocument": {"Version": "2012-10-17", "Statement": [{"Effect": "Allow", "Principal": {"Service": "redshift.amazonaws.com"}, "Action": "sts:AssumeRole"}]}, "InstanceProfileList": [], "RolePolicyList": [], "AttachedManagedPolicies": [{"PolicyName": "AmazonRedshiftServiceLinkedRolePolicy", "PolicyArn": "arn:aws:iam::aws:policy/aws-service-role/AmazonRedshiftServiceLinkedRolePolicy"}], "Tags": [], "RoleLastUsed": {}}, {"Path": "/aws-service-role/support.amazonaws.com/", "RoleName": "AWSServiceRoleForSupport", "RoleId": "AROAI4NZHJB7NVYE6LP24", "Arn": "arn:aws:iam::380379257783:role/aws-service-role/support.amazonaws.com/AWSServiceRoleForSupport", "CreateDate": "2018-08-07T21:05:09+00:00", "AssumeRolePolicyDocument": {"Version": "2012-10-17", "Statement": [{"Effect": "Allow", "Principal": {"Service": "support.amazonaws.com"}, "Action": "sts:AssumeRole"}]}, "InstanceProfileList": [], "RolePolicyList": [], "AttachedManagedPolicies": [{"PolicyName": "AWSSupportServiceRolePolicy", "PolicyArn": "arn:aws:iam::aws:policy/aws-service-role/AWSSupportServiceRolePolicy"}], "Tags": [], "RoleLastUsed": {}}, {"Path": "/aws-service-role/trustedadvisor.amazonaws.com/", "RoleName": "AWSServiceRoleForTrustedAdvisor", "RoleId": "AROAINKWCAWAW5KEJLJAY", "Arn": "arn:aws:iam::380379257783:role/aws-service-role/trustedadvisor.amazonaws.com/AWSServiceRoleForTrustedAdvisor", "CreateDate": "2018-08-09T20:55:31+00:00", "AssumeRolePolicyDocument": {"Version": "2012-10-17", "Statement": [{"Effect": "Allow", "Principal": {"Service": "trustedadvisor.amazonaws.com"}, "Action": "sts:AssumeRole"}]}, "InstanceProfileList": [], "RolePolicyList": [], "AttachedManagedPolicies": [{"PolicyName": "AWSTrustedAdvisorServiceRolePolicy", "PolicyArn": "arn:aws:iam::aws:policy/aws-service-role/AWSTrustedAdvisorServiceRolePolicy"}], "Tags": [], "RoleLastUsed": {}}, {"Path": "/", "RoleName": "BackupTest", "RoleId": "AROAVREC63O36KBOOHIPR", "Arn": "arn:aws:iam::380379257783:role/BackupTest", "CreateDate": "2021-07-06T12:12:49+00:00", "AssumeRolePolicyDocument": {"Version": "2012-10-17", "Statement": [{"Effect": "Allow", "Principal": {"Service": "ec2.amazonaws.com"}, "Action": "sts:AssumeRole"}]}, "InstanceProfileList": [{"Path": "/", "InstanceProfileName": "BackupTest", "InstanceProfileId": "AIPAVREC63O3ZWXZR4ZKL", "Arn": "arn:aws:iam::380379257783:instance-profile/BackupTest", "CreateDate": "2021-07-06T12:12:49+00:00", "Roles": [{"Path": "/", "RoleName": "BackupTest", "RoleId": "AROAVREC63O36KBOOHIPR", "Arn": "arn:aws:iam::380379257783:role/BackupTest", "CreateDate": "2021-07-06T12:12:49+00:00", "AssumeRolePolicyDocument": {"Version": "2012-10-17", "Statement": [{"Effect": "Allow", "Principal": {"Service": "ec2.amazonaws.com"}, "Action": "sts:AssumeRole"}]}}]}], "RolePolicyList": [], "AttachedManagedPolicies": [{"PolicyName": "AmazonSESFullAccess", "PolicyArn": "arn:aws:iam::aws:policy/AmazonSESFullAccess"}], "Tags": [{"Key": "AutoTag_Creator", "Value": "arn:aws:iam::380379257783:user/mihaly.forras@realeyes-dev.aws"}, {"Key": "AutoTag_CreateTime", "Value": "2021-07-06T12:12:49Z"}], "RoleLastUsed": {}}, {"Path": "/", "RoleName": "BambooRemoteAgent", "RoleId": "AROAVREC63O3VPRJHC6PV", "Arn": "arn:aws:iam::380379257783:role/BambooRemoteAgent", "CreateDate": "2019-11-22T09:53:32+00:00", "AssumeRolePolicyDocument": {"Version": "2012-10-17", "Statement": [{"Effect": "Allow", "Principal": {"Service": "ec2.amazonaws.com"}, "Action": "sts:AssumeRole"}]}, "InstanceProfileList": [{"Path": "/", "InstanceProfileName": "BambooRemoteAgent", "InstanceProfileId": "AIPAVREC63O3UYMDQYJWF", "Arn": "arn:aws:iam::380379257783:instance-profile/BambooRemoteAgent", "CreateDate": "2019-11-22T09:53:33+00:00", "Roles": [{"Path": "/", "RoleName": "BambooRemoteAgent", "RoleId": "AROAVREC63O3VPRJHC6PV", "Arn": "arn:aws:iam::380379257783:role/BambooRemoteAgent", "CreateDate": "2019-11-22T09:53:32+00:00", "AssumeRolePolicyDocument": {"Version": "2012-10-17", "Statement": [{"Effect": "Allow", "Principal": {"Service": "ec2.amazonaws.com"}, "Action": "sts:AssumeRole"}]}}]}], "RolePolicyList": [{"PolicyName": "deployment_bucket_access", "PolicyDocument": {"Version": "2012-10-17", "Statement": [{"Sid": "VisualEditor0", "Effect": "Allow", "Action": ["s3:GetLifecycleConfiguration", "s3:ListBucketByTags", "s3:GetBucketTagging", "s3:GetInventoryConfiguration", "s3:GetObjectVersionTagging", "s3:GetBucketLogging", "s3:ListBucketVersions", "s3:GetAccelerateConfiguration", "s3:ListBucket", "s3:GetBucketPolicy", "s3:GetEncryptionConfiguration", "s3:GetObjectAcl", "s3:GetObjectVersionTorrent", "s3:GetBucketRequestPayment", "s3:GetObjectVersionAcl", "s3:GetObjectTagging", "s3:GetMetricsConfiguration", "s3:GetBucketPolicyStatus", "s3:GetBucketPublicAccessBlock", "s3:ListBucketMultipartUploads", "s3:GetBucketWebsite", "s3:GetBucketVersioning", "s3:GetBucketAcl", "s3:GetBucketNotification", "s3:GetReplicationConfiguration", "s3:ListMultipartUploadParts", "s3:GetObject", "s3:GetObjectTorrent", "s3:DescribeJob", "s3:GetBucketCORS", "s3:GetAnalyticsConfiguration", "s3:GetObjectVersionForReplication", "s3:GetBucketLocation", "s3:GetObjectVersion"], "Resource": ["arn:aws:s3:::realeyes-serverless-deployment-sandbox", "arn:aws:s3:::realeyes-serverless-deployment-sandbox/*"]}, {"Sid": "VisualEditor1", "Effect": "Allow", "Action": ["s3:GetAccountPublicAccessBlock", "s3:ListAllMyBuckets", "s3:ListJobs", "s3:HeadBucket"], "Resource": "*"}]}}], "AttachedManagedPolicies": [{"PolicyName": "AWSLambdaFullAccess", "PolicyArn": "arn:aws:iam::aws:policy/AWSLambdaFullAccess"}, {"PolicyName": "IAMFullAccess", "PolicyArn": "arn:aws:iam::aws:policy/IAMFullAccess"}, {"PolicyName": "AmazonS3FullAccess", "PolicyArn": "arn:aws:iam::aws:policy/AmazonS3FullAccess"}, {"PolicyName": "AmazonDynamoDBFullAccess", "PolicyArn": "arn:aws:iam::aws:policy/AmazonDynamoDBFullAccess"}, {"PolicyName": "AmazonKinesisFullAccess", "PolicyArn": "arn:aws:iam::aws:policy/AmazonKinesisFullAccess"}, {"PolicyName": "AmazonKinesisVideoStreamsFullAccess", "PolicyArn": "arn:aws:iam::aws:policy/AmazonKinesisVideoStreamsFullAccess"}, {"PolicyName": "AmazonKinesisFirehoseFullAccess", "PolicyArn": "arn:aws:iam::aws:policy/AmazonKinesisFirehoseFullAccess"}, {"PolicyName": "AmazonKinesisAnalyticsFullAccess", "PolicyArn": "arn:aws:iam::aws:policy/AmazonKinesisAnalyticsFullAccess"}, {"PolicyName": "AWSCloudFormationFullAccess", "PolicyArn": "arn:aws:iam::aws:policy/AWSCloudFormationFullAccess"}], "Tags": [{"Key": "AutoTag_Creator", "Value": "arn:aws:iam::380379257783:user/gergely.szabo@realeyes-dev.aws"}, {"Key": "AutoTag_CreateTime", "Value": "2019-11-22T09:53:33Z"}, {"Key": "AutoTag_InvokedBy", "Value": "signin.amazonaws.com"}], "RoleLastUsed": {}}], "Policies": [], "IsTruncated": true, "Marker": "RAA8ifPAc9PfnFh2SQCGqI7K3V5WCdMgDLv5MKV3+NzAMMla958s2WYqL+ob964JHOcrtsanFJpP8KElUiWwvVN6C", "ResponseMetadata": {"RequestId": "c9b7e7ea-d16b-452b-90cb-da150ed4b41e", "HTTPStatusCode": 200, "HTTPHeaders": {"x-amzn-requestid": "c9b7e7ea-d16b-452b-90cb-da150ed4b41e", "content-type": "text/xml", "content-length": "63466", "vary": "accept-encoding", "date": "Mon, 26 Jul 2021 11:49:44 GMT"}, "RetryAttempts": 0}}
+{
+    "UserDetailList": [
+        {
+            "Path": "/",
+            "UserName": "adorjan.sari@realeyesit.com",
+            "UserId": "AIDAIBFWNE2F4Y2VYGT6E",
+            "Arn": "arn:aws:iam::380379257783:user/adorjan.sari@realeyesit.com",
+            "CreateDate": "2019-03-01T09:41:45+00:00",
+            "GroupList": [],
+            "AttachedManagedPolicies": [
+                {
+                    "PolicyName": "AdministratorAccess",
+                    "PolicyArn": "arn:aws:iam::aws:policy/AdministratorAccess"
+                }
+            ],
+            "Tags": []
+        },
+        {
+            "Path": "/",
+            "UserName": "alexander.walther@realeyesit.com",
+            "UserId": "AIDAVREC63O3XXS2CCBNF",
+            "Arn": "arn:aws:iam::380379257783:user/alexander.walther@realeyesit.com",
+            "CreateDate": "2019-06-26T14:04:33+00:00",
+            "GroupList": [],
+            "AttachedManagedPolicies": [
+                {
+                    "PolicyName": "AdministratorAccess",
+                    "PolicyArn": "arn:aws:iam::aws:policy/AdministratorAccess"
+                }
+            ],
+            "Tags": []
+        },
+        {
+            "Path": "/",
+            "UserName": "alexandra.simon@realeyes-dev.aws",
+            "UserId": "AIDAVREC63O342WIQCTV6",
+            "Arn": "arn:aws:iam::380379257783:user/alexandra.simon@realeyes-dev.aws",
+            "CreateDate": "2021-05-07T09:54:00+00:00",
+            "GroupList": [
+                "IAM_roles_rw",
+                "IAM_getRole"
+            ],
+            "AttachedManagedPolicies": [
+                {
+                    "PolicyName": "AdministratorAccess",
+                    "PolicyArn": "arn:aws:iam::aws:policy/AdministratorAccess"
+                },
+                {
+                    "PolicyName": "PowerUserAccess",
+                    "PolicyArn": "arn:aws:iam::aws:policy/PowerUserAccess"
+                }
+            ],
+            "Tags": [
+                {
+                    "Key": "AutoTag_Creator",
+                    "Value": "arn:aws:iam::380379257783:user/imre.kleman@realeyes-dev.aws"
+                },
+                {
+                    "Key": "AutoTag_CreateTime",
+                    "Value": "2021-05-07T09:54:00Z"
+                }
+            ]
+        },
+        {
+            "Path": "/",
+            "UserName": "anton.chueshkov@realeyes-dev.aws",
+            "UserId": "AIDAJEV76LJZCOE35WE72",
+            "Arn": "arn:aws:iam::380379257783:user/anton.chueshkov@realeyes-dev.aws",
+            "CreateDate": "2015-04-30T12:55:20+00:00",
+            "GroupList": [
+                "IAM_roles_rw",
+                "IAM_getRole"
+            ],
+            "AttachedManagedPolicies": [
+                {
+                    "PolicyName": "AdministratorAccess",
+                    "PolicyArn": "arn:aws:iam::aws:policy/AdministratorAccess"
+                }
+            ],
+            "Tags": []
+        },
+        {
+            "Path": "/",
+            "UserName": "bamboouser@realeyes-dev.aws",
+            "UserId": "AIDAJEONYEVCDAW4MLOBG",
+            "Arn": "arn:aws:iam::380379257783:user/bamboouser@realeyes-dev.aws",
+            "CreateDate": "2015-05-05T10:53:29+00:00",
+            "UserPolicyList": [
+                {
+                    "PolicyName": "IAM-GetPassRole",
+                    "PolicyDocument": {
+                        "Version": "2012-10-17",
+                        "Statement": [
+                            {
+                                "Effect": "Allow",
+                                "Action": "iam:PassRole",
+                                "Resource": "*"
+                            },
+                            {
+                                "Effect": "Allow",
+                                "Action": "iam:GetRole",
+                                "Resource": "*"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "GroupList": [],
+            "AttachedManagedPolicies": [
+                {
+                    "PolicyName": "PowerUserAccess",
+                    "PolicyArn": "arn:aws:iam::aws:policy/PowerUserAccess"
+                }
+            ],
+            "Tags": []
+        },
+        {
+            "Path": "/",
+            "UserName": "daniel.takacs@realeyesit.com",
+            "UserId": "AIDAVREC63O3S2XZH4FTN",
+            "Arn": "arn:aws:iam::380379257783:user/daniel.takacs@realeyesit.com",
+            "CreateDate": "2019-05-23T11:42:37+00:00",
+            "GroupList": [],
+            "AttachedManagedPolicies": [
+                {
+                    "PolicyName": "PowerUserAccess",
+                    "PolicyArn": "arn:aws:iam::aws:policy/PowerUserAccess"
+                }
+            ],
+            "Tags": []
+        },
+        {
+            "Path": "/",
+            "UserName": "david.bollobas@realeyes-dev.aws",
+            "UserId": "AIDAJRYXXJETPWO24XWKS",
+            "Arn": "arn:aws:iam::380379257783:user/david.bollobas@realeyes-dev.aws",
+            "CreateDate": "2018-11-22T13:01:15+00:00",
+            "GroupList": [],
+            "AttachedManagedPolicies": [
+                {
+                    "PolicyName": "AWSElasticBeanstalkFullAccess",
+                    "PolicyArn": "arn:aws:iam::aws:policy/AWSElasticBeanstalkFullAccess"
+                },
+                {
+                    "PolicyName": "PowerUserAccess",
+                    "PolicyArn": "arn:aws:iam::aws:policy/PowerUserAccess"
+                }
+            ],
+            "Tags": []
+        },
+        {
+            "Path": "/",
+            "UserName": "gabor.lerant@realeyes-dev.aws",
+            "UserId": "AIDAJW3IZMOURJJKXHGNI",
+            "Arn": "arn:aws:iam::380379257783:user/gabor.lerant@realeyes-dev.aws",
+            "CreateDate": "2017-11-13T16:58:59+00:00",
+            "GroupList": [],
+            "AttachedManagedPolicies": [
+                {
+                    "PolicyName": "AdministratorAccess",
+                    "PolicyArn": "arn:aws:iam::aws:policy/AdministratorAccess"
+                },
+                {
+                    "PolicyName": "PowerUserAccess",
+                    "PolicyArn": "arn:aws:iam::aws:policy/PowerUserAccess"
+                }
+            ],
+            "Tags": []
+        },
+        {
+            "Path": "/",
+            "UserName": "gyula.krajczar@realeyes-dev.aws",
+            "UserId": "AIDAIASIV4LAXYPPCSL2E",
+            "Arn": "arn:aws:iam::380379257783:user/gyula.krajczar@realeyes-dev.aws",
+            "CreateDate": "2017-06-26T15:06:53+00:00",
+            "GroupList": [
+                "IAM_roles_rw",
+                "IAM_readonly",
+                "IAM_getRole"
+            ],
+            "AttachedManagedPolicies": [
+                {
+                    "PolicyName": "AWSOpsWorksFullAccess",
+                    "PolicyArn": "arn:aws:iam::aws:policy/AWSOpsWorksFullAccess"
+                },
+                {
+                    "PolicyName": "PowerUserAccess",
+                    "PolicyArn": "arn:aws:iam::aws:policy/PowerUserAccess"
+                }
+            ],
+            "Tags": []
+        },
+        {
+            "Path": "/",
+            "UserName": "imre.kleman@realeyes-dev.aws",
+            "UserId": "AIDAJ6JR3DR3WVHXZK5X2",
+            "Arn": "arn:aws:iam::380379257783:user/imre.kleman@realeyes-dev.aws",
+            "CreateDate": "2016-07-01T15:24:39+00:00",
+            "GroupList": [],
+            "AttachedManagedPolicies": [
+                {
+                    "PolicyName": "Billing",
+                    "PolicyArn": "arn:aws:iam::aws:policy/job-function/Billing"
+                },
+                {
+                    "PolicyName": "AdministratorAccess",
+                    "PolicyArn": "arn:aws:iam::aws:policy/AdministratorAccess"
+                }
+            ],
+            "Tags": []
+        },
+        {
+            "Path": "/",
+            "UserName": "mate.kovacs@realeyes-dev.aws",
+            "UserId": "AIDAIP4NPNLPF35AXN4F4",
+            "Arn": "arn:aws:iam::380379257783:user/mate.kovacs@realeyes-dev.aws",
+            "CreateDate": "2017-11-13T10:41:27+00:00",
+            "GroupList": [],
+            "AttachedManagedPolicies": [
+                {
+                    "PolicyName": "AdministratorAccess",
+                    "PolicyArn": "arn:aws:iam::aws:policy/AdministratorAccess"
+                },
+                {
+                    "PolicyName": "PowerUserAccess",
+                    "PolicyArn": "arn:aws:iam::aws:policy/PowerUserAccess"
+                }
+            ],
+            "Tags": []
+        },
+        {
+            "Path": "/",
+            "UserName": "mihaly.forras@realeyes-dev.aws",
+            "UserId": "AIDAVREC63O376D5UBKSZ",
+            "Arn": "arn:aws:iam::380379257783:user/mihaly.forras@realeyes-dev.aws",
+            "CreateDate": "2021-07-02T09:43:02+00:00",
+            "GroupList": [],
+            "AttachedManagedPolicies": [
+                {
+                    "PolicyName": "Billing",
+                    "PolicyArn": "arn:aws:iam::aws:policy/job-function/Billing"
+                },
+                {
+                    "PolicyName": "AdministratorAccess",
+                    "PolicyArn": "arn:aws:iam::aws:policy/AdministratorAccess"
+                }
+            ],
+            "Tags": [
+                {
+                    "Key": "AutoTag_Creator",
+                    "Value": "arn:aws:iam::380379257783:user/imre.kleman@realeyes-dev.aws"
+                },
+                {
+                    "Key": "AutoTag_CreateTime",
+                    "Value": "2021-07-02T09:43:02Z"
+                }
+            ]
+        },
+        {
+            "Path": "/",
+            "UserName": "tamas.tobi@realeyes-dev.aws",
+            "UserId": "AIDAJ6FTJMJKO37S5GPKI",
+            "Arn": "arn:aws:iam::380379257783:user/tamas.tobi@realeyes-dev.aws",
+            "CreateDate": "2015-03-04T10:24:22+00:00",
+            "GroupList": [
+                "IAM_getRole"
+            ],
+            "AttachedManagedPolicies": [
+                {
+                    "PolicyName": "AdministratorAccess",
+                    "PolicyArn": "arn:aws:iam::aws:policy/AdministratorAccess"
+                }
+            ],
+            "Tags": []
+        },
+        {
+            "Path": "/",
+            "UserName": "technical.bamboo@realeyes-dev.aws",
+            "UserId": "AIDAI54PEXGBVQTRN53DM",
+            "Arn": "arn:aws:iam::380379257783:user/technical.bamboo@realeyes-dev.aws",
+            "CreateDate": "2017-04-07T09:43:03+00:00",
+            "GroupList": [
+                "IAM_roles_rw"
+            ],
+            "AttachedManagedPolicies": [
+                {
+                    "PolicyName": "AmazonS3FullAccess",
+                    "PolicyArn": "arn:aws:iam::aws:policy/AmazonS3FullAccess"
+                },
+                {
+                    "PolicyName": "AdministratorAccess",
+                    "PolicyArn": "arn:aws:iam::aws:policy/AdministratorAccess"
+                },
+                {
+                    "PolicyName": "AmazonAppStreamReadOnlyAccess",
+                    "PolicyArn": "arn:aws:iam::aws:policy/AmazonAppStreamReadOnlyAccess"
+                },
+                {
+                    "PolicyName": "PowerUserAccess",
+                    "PolicyArn": "arn:aws:iam::aws:policy/PowerUserAccess"
+                }
+            ],
+            "Tags": []
+        },
+        {
+            "Path": "/",
+            "UserName": "vladislav.stolyarov@realeyes-dev.aws",
+            "UserId": "AIDAJESIJMD2CEO67YHNK",
+            "Arn": "arn:aws:iam::380379257783:user/vladislav.stolyarov@realeyes-dev.aws",
+            "CreateDate": "2019-02-26T13:20:57+00:00",
+            "GroupList": [
+                "IAM_roles_rw",
+                "IAM_readonly",
+                "IAM_getRole"
+            ],
+            "AttachedManagedPolicies": [
+                {
+                    "PolicyName": "AWSOpsWorksFullAccess",
+                    "PolicyArn": "arn:aws:iam::aws:policy/AWSOpsWorksFullAccess"
+                },
+                {
+                    "PolicyName": "AdministratorAccess",
+                    "PolicyArn": "arn:aws:iam::aws:policy/AdministratorAccess"
+                },
+                {
+                    "PolicyName": "PowerUserAccess",
+                    "PolicyArn": "arn:aws:iam::aws:policy/PowerUserAccess"
+                }
+            ],
+            "Tags": []
+        },
+        {
+            "Path": "/",
+            "UserName": "webdev-pool@realeyes-dev.aws",
+            "UserId": "AIDAINCKDRJSHHZHFUTDM",
+            "Arn": "arn:aws:iam::380379257783:user/webdev-pool@realeyes-dev.aws",
+            "CreateDate": "2015-03-13T15:49:29+00:00",
+            "GroupList": [
+                "IAM_getRole"
+            ],
+            "AttachedManagedPolicies": [
+                {
+                    "PolicyName": "PowerUserAccess",
+                    "PolicyArn": "arn:aws:iam::aws:policy/PowerUserAccess"
+                }
+            ],
+            "Tags": []
+        }
+    ],
+    "GroupDetailList": [],
+    "RoleDetailList": [
+        {
+            "Path": "/",
+            "RoleName": "aaa",
+            "RoleId": "AROAJKJNMBOCEYQJO4HQU",
+            "Arn": "arn:aws:iam::380379257783:role/aaa",
+            "CreateDate": "2018-01-19T10:22:17+00:00",
+            "AssumeRolePolicyDocument": {
+                "Version": "2012-10-17",
+                "Statement": [
+                    {
+                        "Sid": "",
+                        "Effect": "Allow",
+                        "Principal": {
+                            "Service": "codedeploy.amazonaws.com"
+                        },
+                        "Action": "sts:AssumeRole"
+                    }
+                ]
+            },
+            "InstanceProfileList": [],
+            "RolePolicyList": [],
+            "AttachedManagedPolicies": [
+                {
+                    "PolicyName": "AWSCodeDeployRole",
+                    "PolicyArn": "arn:aws:iam::aws:policy/service-role/AWSCodeDeployRole"
+                }
+            ],
+            "Tags": [],
+            "RoleLastUsed": {}
+        },
+        {
+            "Path": "/",
+            "RoleName": "ADFS-Admin",
+            "RoleId": "AROAJQCRL2LDNM252TSGQ",
+            "Arn": "arn:aws:iam::380379257783:role/ADFS-Admin",
+            "CreateDate": "2015-03-04T13:20:14+00:00",
+            "AssumeRolePolicyDocument": {
+                "Version": "2012-10-17",
+                "Statement": [
+                    {
+                        "Sid": "",
+                        "Effect": "Allow",
+                        "Principal": {
+                            "Federated": "arn:aws:iam::380379257783:saml-provider/ADFS"
+                        },
+                        "Action": "sts:AssumeRoleWithSAML",
+                        "Condition": {
+                            "StringEquals": {
+                                "SAML:aud": "https://signin.aws.amazon.com/saml"
+                            }
+                        }
+                    }
+                ]
+            },
+            "InstanceProfileList": [],
+            "RolePolicyList": [],
+            "AttachedManagedPolicies": [
+                {
+                    "PolicyName": "AdministratorAccess",
+                    "PolicyArn": "arn:aws:iam::aws:policy/AdministratorAccess"
+                }
+            ],
+            "Tags": [],
+            "RoleLastUsed": {}
+        },
+        {
+            "Path": "/",
+            "RoleName": "ADFS-PowerUser",
+            "RoleId": "AROAIZ2ELVBJ7SEGBSHDM",
+            "Arn": "arn:aws:iam::380379257783:role/ADFS-PowerUser",
+            "CreateDate": "2015-03-04T14:12:10+00:00",
+            "AssumeRolePolicyDocument": {
+                "Version": "2012-10-17",
+                "Statement": [
+                    {
+                        "Sid": "",
+                        "Effect": "Allow",
+                        "Principal": {
+                            "Federated": "arn:aws:iam::380379257783:saml-provider/ADFS"
+                        },
+                        "Action": "sts:AssumeRoleWithSAML",
+                        "Condition": {
+                            "StringEquals": {
+                                "SAML:aud": "https://signin.aws.amazon.com/saml"
+                            }
+                        }
+                    }
+                ]
+            },
+            "InstanceProfileList": [],
+            "RolePolicyList": [],
+            "AttachedManagedPolicies": [
+                {
+                    "PolicyName": "PowerUserAccess",
+                    "PolicyArn": "arn:aws:iam::aws:policy/PowerUserAccess"
+                }
+            ],
+            "Tags": [],
+            "RoleLastUsed": {}
+        },
+        {
+            "Path": "/",
+            "RoleName": "ADFS-Test",
+            "RoleId": "AROAIBCYR6YSQ6VKPAZPO",
+            "Arn": "arn:aws:iam::380379257783:role/ADFS-Test",
+            "CreateDate": "2015-03-05T14:55:24+00:00",
+            "AssumeRolePolicyDocument": {
+                "Version": "2012-10-17",
+                "Statement": [
+                    {
+                        "Sid": "",
+                        "Effect": "Allow",
+                        "Principal": {
+                            "Federated": "arn:aws:iam::380379257783:saml-provider/ADFS"
+                        },
+                        "Action": "sts:AssumeRoleWithSAML",
+                        "Condition": {
+                            "StringEquals": {
+                                "SAML:iss": "urn:realeyesit.com"
+                            }
+                        }
+                    }
+                ]
+            },
+            "InstanceProfileList": [],
+            "RolePolicyList": [],
+            "AttachedManagedPolicies": [
+                {
+                    "PolicyName": "PowerUserAccess",
+                    "PolicyArn": "arn:aws:iam::aws:policy/PowerUserAccess"
+                }
+            ],
+            "Tags": [],
+            "RoleLastUsed": {}
+        },
+        {
+            "Path": "/",
+            "RoleName": "AdminFromMainAccount",
+            "RoleId": "AROAVREC63O3U7WOODTYV",
+            "Arn": "arn:aws:iam::380379257783:role/AdminFromMainAccount",
+            "CreateDate": "2019-05-10T13:55:18+00:00",
+            "AssumeRolePolicyDocument": {
+                "Version": "2012-10-17",
+                "Statement": [
+                    {
+                        "Effect": "Allow",
+                        "Principal": {
+                            "AWS": "arn:aws:iam::249265253269:root"
+                        },
+                        "Action": "sts:AssumeRole",
+                        "Condition": {}
+                    }
+                ]
+            },
+            "InstanceProfileList": [],
+            "RolePolicyList": [],
+            "AttachedManagedPolicies": [
+                {
+                    "PolicyName": "AdministratorAccess",
+                    "PolicyArn": "arn:aws:iam::aws:policy/AdministratorAccess"
+                }
+            ],
+            "Tags": [],
+            "RoleLastUsed": {}
+        },
+        {
+            "Path": "/service-role/",
+            "RoleName": "AmazonMWAA-MyAirflowEnvironment-XdU29g",
+            "RoleId": "AROAVREC63O33NLYRNDIX",
+            "Arn": "arn:aws:iam::380379257783:role/service-role/AmazonMWAA-MyAirflowEnvironment-XdU29g",
+            "CreateDate": "2021-05-07T13:35:28+00:00",
+            "AssumeRolePolicyDocument": {
+                "Version": "2012-10-17",
+                "Statement": [
+                    {
+                        "Effect": "Allow",
+                        "Principal": {
+                            "Service": [
+                                "airflow.amazonaws.com",
+                                "airflow-env.amazonaws.com"
+                            ]
+                        },
+                        "Action": "sts:AssumeRole"
+                    }
+                ]
+            },
+            "InstanceProfileList": [],
+            "RolePolicyList": [],
+            "AttachedManagedPolicies": [
+                {
+                    "PolicyName": "MWAA-Execution-Policy-4fe4608b-a3e0-4892-81e1-98e8470a9898",
+                    "PolicyArn": "arn:aws:iam::380379257783:policy/service-role/MWAA-Execution-Policy-4fe4608b-a3e0-4892-81e1-98e8470a9898"
+                }
+            ],
+            "Tags": [],
+            "RoleLastUsed": {
+                "LastUsedDate": "2021-05-07T17:11:55+00:00",
+                "Region": "eu-west-1"
+            }
+        },
+        {
+            "Path": "/",
+            "RoleName": "api-gateway-logs",
+            "RoleId": "AROAVREC63O3YNZSPFLTW",
+            "Arn": "arn:aws:iam::380379257783:role/api-gateway-logs",
+            "CreateDate": "2019-07-29T09:12:12+00:00",
+            "AssumeRolePolicyDocument": {
+                "Version": "2012-10-17",
+                "Statement": [
+                    {
+                        "Sid": "",
+                        "Effect": "Allow",
+                        "Principal": {
+                            "Service": "apigateway.amazonaws.com"
+                        },
+                        "Action": "sts:AssumeRole"
+                    }
+                ]
+            },
+            "InstanceProfileList": [],
+            "RolePolicyList": [],
+            "AttachedManagedPolicies": [
+                {
+                    "PolicyName": "AmazonAPIGatewayPushToCloudWatchLogs",
+                    "PolicyArn": "arn:aws:iam::aws:policy/service-role/AmazonAPIGatewayPushToCloudWatchLogs"
+                }
+            ],
+            "Tags": [],
+            "RoleLastUsed": {}
+        },
+        {
+            "Path": "/",
+            "RoleName": "aspnetcore-api-2015-GetRole-1GIWM2VR659GJ",
+            "RoleId": "AROAJ3US6RSAATKWYFXA6",
+            "Arn": "arn:aws:iam::380379257783:role/aspnetcore-api-2015-GetRole-1GIWM2VR659GJ",
+            "CreateDate": "2017-03-28T14:32:19+00:00",
+            "AssumeRolePolicyDocument": {
+                "Version": "2012-10-17",
+                "Statement": [
+                    {
+                        "Effect": "Allow",
+                        "Principal": {
+                            "Service": "lambda.amazonaws.com"
+                        },
+                        "Action": "sts:AssumeRole"
+                    }
+                ]
+            },
+            "InstanceProfileList": [],
+            "RolePolicyList": [],
+            "AttachedManagedPolicies": [
+                {
+                    "PolicyName": "AWSLambdaFullAccess",
+                    "PolicyArn": "arn:aws:iam::aws:policy/AWSLambdaFullAccess"
+                },
+                {
+                    "PolicyName": "AWSLambdaBasicExecutionRole",
+                    "PolicyArn": "arn:aws:iam::aws:policy/service-role/AWSLambdaBasicExecutionRole"
+                }
+            ],
+            "Tags": [],
+            "RoleLastUsed": {}
+        },
+        {
+            "Path": "/",
+            "RoleName": "aspnetcore-api-poc-GetRole-1MFQVIXJ9S4V5",
+            "RoleId": "AROAIDFTSX6WA5Z5RIVH4",
+            "Arn": "arn:aws:iam::380379257783:role/aspnetcore-api-poc-GetRole-1MFQVIXJ9S4V5",
+            "CreateDate": "2017-03-28T11:47:27+00:00",
+            "AssumeRolePolicyDocument": {
+                "Version": "2012-10-17",
+                "Statement": [
+                    {
+                        "Effect": "Allow",
+                        "Principal": {
+                            "Service": "lambda.amazonaws.com"
+                        },
+                        "Action": "sts:AssumeRole"
+                    }
+                ]
+            },
+            "InstanceProfileList": [],
+            "RolePolicyList": [],
+            "AttachedManagedPolicies": [
+                {
+                    "PolicyName": "AWSLambdaFullAccess",
+                    "PolicyArn": "arn:aws:iam::aws:policy/AWSLambdaFullAccess"
+                },
+                {
+                    "PolicyName": "AWSLambdaBasicExecutionRole",
+                    "PolicyArn": "arn:aws:iam::aws:policy/service-role/AWSLambdaBasicExecutionRole"
+                }
+            ],
+            "Tags": [],
+            "RoleLastUsed": {}
+        },
+        {
+            "Path": "/",
+            "RoleName": "aws-csharp-dev-us-east-1-lambdaRole",
+            "RoleId": "AROAJDBKME2PHTWI5XPAI",
+            "Arn": "arn:aws:iam::380379257783:role/aws-csharp-dev-us-east-1-lambdaRole",
+            "CreateDate": "2017-03-28T14:41:39+00:00",
+            "AssumeRolePolicyDocument": {
+                "Version": "2012-10-17",
+                "Statement": [
+                    {
+                        "Effect": "Allow",
+                        "Principal": {
+                            "Service": "lambda.amazonaws.com"
+                        },
+                        "Action": "sts:AssumeRole"
+                    }
+                ]
+            },
+            "InstanceProfileList": [],
+            "RolePolicyList": [
+                {
+                    "PolicyName": "dev-aws-csharp-lambda",
+                    "PolicyDocument": {
+                        "Version": "2012-10-17",
+                        "Statement": [
+                            {
+                                "Action": [
+                                    "logs:CreateLogStream"
+                                ],
+                                "Resource": [
+                                    "arn:aws:logs:us-east-1:380379257783:log-group:/aws/lambda/aws-csharp-dev-hello:*"
+                                ],
+                                "Effect": "Allow"
+                            },
+                            {
+                                "Action": [
+                                    "logs:PutLogEvents"
+                                ],
+                                "Resource": [
+                                    "arn:aws:logs:us-east-1:380379257783:log-group:/aws/lambda/aws-csharp-dev-hello:*:*"
+                                ],
+                                "Effect": "Allow"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "AttachedManagedPolicies": [],
+            "Tags": [],
+            "RoleLastUsed": {}
+        },
+        {
+            "Path": "/",
+            "RoleName": "aws-elasticbeanstalk-ec2-role",
+            "RoleId": "AROAID4TEYGWGBOAUTGNE",
+            "Arn": "arn:aws:iam::380379257783:role/aws-elasticbeanstalk-ec2-role",
+            "CreateDate": "2015-03-04T14:18:35+00:00",
+            "AssumeRolePolicyDocument": {
+                "Version": "2008-10-17",
+                "Statement": [
+                    {
+                        "Sid": "",
+                        "Effect": "Allow",
+                        "Principal": {
+                            "Service": "ec2.amazonaws.com"
+                        },
+                        "Action": "sts:AssumeRole"
+                    }
+                ]
+            },
+            "InstanceProfileList": [
+                {
+                    "Path": "/",
+                    "InstanceProfileName": "aws-elasticbeanstalk-ec2-role",
+                    "InstanceProfileId": "AIPAJZKR5FROL43NRXEUC",
+                    "Arn": "arn:aws:iam::380379257783:instance-profile/aws-elasticbeanstalk-ec2-role",
+                    "CreateDate": "2015-03-04T14:18:36+00:00",
+                    "Roles": [
+                        {
+                            "Path": "/",
+                            "RoleName": "aws-elasticbeanstalk-ec2-role",
+                            "RoleId": "AROAID4TEYGWGBOAUTGNE",
+                            "Arn": "arn:aws:iam::380379257783:role/aws-elasticbeanstalk-ec2-role",
+                            "CreateDate": "2015-03-04T14:18:35+00:00",
+                            "AssumeRolePolicyDocument": {
+                                "Version": "2008-10-17",
+                                "Statement": [
+                                    {
+                                        "Sid": "",
+                                        "Effect": "Allow",
+                                        "Principal": {
+                                            "Service": "ec2.amazonaws.com"
+                                        },
+                                        "Action": "sts:AssumeRole"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "RolePolicyList": [
+                {
+                    "PolicyName": "AssumeRole",
+                    "PolicyDocument": {
+                        "Version": "2012-10-17",
+                        "Statement": [
+                            {
+                                "Sid": "",
+                                "Effect": "Allow",
+                                "Action": "sts:AssumeRole",
+                                "Resource": "*"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "AttachedManagedPolicies": [
+                {
+                    "PolicyName": "PowerUserAccess",
+                    "PolicyArn": "arn:aws:iam::aws:policy/PowerUserAccess"
+                }
+            ],
+            "Tags": [],
+            "RoleLastUsed": {
+                "LastUsedDate": "2021-07-26T11:46:06+00:00",
+                "Region": "eu-west-1"
+            }
+        },
+        {
+            "Path": "/",
+            "RoleName": "aws-elasticbeanstalk-ec2-role-2",
+            "RoleId": "AROAJCK6NUABYW2O7GRRU",
+            "Arn": "arn:aws:iam::380379257783:role/aws-elasticbeanstalk-ec2-role-2",
+            "CreateDate": "2015-09-02T15:47:02+00:00",
+            "AssumeRolePolicyDocument": {
+                "Version": "2012-10-17",
+                "Statement": [
+                    {
+                        "Sid": "1",
+                        "Effect": "Allow",
+                        "Principal": {
+                            "Service": "ec2.amazonaws.com"
+                        },
+                        "Action": "sts:AssumeRole"
+                    },
+                    {
+                        "Sid": "2",
+                        "Effect": "Allow",
+                        "Principal": {
+                            "Service": "ecs.amazonaws.com"
+                        },
+                        "Action": "sts:AssumeRole"
+                    },
+                    {
+                        "Sid": "3",
+                        "Effect": "Allow",
+                        "Principal": {
+                            "Service": "elasticbeanstalk.amazonaws.com"
+                        },
+                        "Action": "sts:AssumeRole"
+                    }
+                ]
+            },
+            "InstanceProfileList": [
+                {
+                    "Path": "/",
+                    "InstanceProfileName": "aws-elasticbeanstalk-ec2-role-2",
+                    "InstanceProfileId": "AIPAIXEB6H4RQFEUYFYN2",
+                    "Arn": "arn:aws:iam::380379257783:instance-profile/aws-elasticbeanstalk-ec2-role-2",
+                    "CreateDate": "2015-09-02T15:47:02+00:00",
+                    "Roles": [
+                        {
+                            "Path": "/",
+                            "RoleName": "aws-elasticbeanstalk-ec2-role-2",
+                            "RoleId": "AROAJCK6NUABYW2O7GRRU",
+                            "Arn": "arn:aws:iam::380379257783:role/aws-elasticbeanstalk-ec2-role-2",
+                            "CreateDate": "2015-09-02T15:47:02+00:00",
+                            "AssumeRolePolicyDocument": {
+                                "Version": "2012-10-17",
+                                "Statement": [
+                                    {
+                                        "Sid": "1",
+                                        "Effect": "Allow",
+                                        "Principal": {
+                                            "Service": "ec2.amazonaws.com"
+                                        },
+                                        "Action": "sts:AssumeRole"
+                                    },
+                                    {
+                                        "Sid": "2",
+                                        "Effect": "Allow",
+                                        "Principal": {
+                                            "Service": "ecs.amazonaws.com"
+                                        },
+                                        "Action": "sts:AssumeRole"
+                                    },
+                                    {
+                                        "Sid": "3",
+                                        "Effect": "Allow",
+                                        "Principal": {
+                                            "Service": "elasticbeanstalk.amazonaws.com"
+                                        },
+                                        "Action": "sts:AssumeRole"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "RolePolicyList": [],
+            "AttachedManagedPolicies": [
+                {
+                    "PolicyName": "PowerUserAccess",
+                    "PolicyArn": "arn:aws:iam::aws:policy/PowerUserAccess"
+                }
+            ],
+            "Tags": [],
+            "RoleLastUsed": {
+                "LastUsedDate": "2021-07-26T08:17:49+00:00",
+                "Region": "eu-west-1"
+            }
+        },
+        {
+            "Path": "/",
+            "RoleName": "aws-elasticbeanstalk-service-role",
+            "RoleId": "AROAJYDOJSO7SVPK7JPS2",
+            "Arn": "arn:aws:iam::380379257783:role/aws-elasticbeanstalk-service-role",
+            "CreateDate": "2016-05-11T13:51:44+00:00",
+            "AssumeRolePolicyDocument": {
+                "Version": "2012-10-17",
+                "Statement": [
+                    {
+                        "Sid": "",
+                        "Effect": "Allow",
+                        "Principal": {
+                            "Service": "elasticbeanstalk.amazonaws.com"
+                        },
+                        "Action": "sts:AssumeRole",
+                        "Condition": {
+                            "StringEquals": {
+                                "sts:ExternalId": "elasticbeanstalk"
+                            }
+                        }
+                    }
+                ]
+            },
+            "InstanceProfileList": [],
+            "RolePolicyList": [],
+            "AttachedManagedPolicies": [],
+            "Tags": [],
+            "RoleLastUsed": {
+                "LastUsedDate": "2021-07-26T11:46:15+00:00",
+                "Region": "eu-west-1"
+            }
+        },
+        {
+            "Path": "/",
+            "RoleName": "aws-opsworks-ec2-role",
+            "RoleId": "AROAI6GIA5XVMRGYXR34A",
+            "Arn": "arn:aws:iam::380379257783:role/aws-opsworks-ec2-role",
+            "CreateDate": "2015-11-10T15:08:39+00:00",
+            "AssumeRolePolicyDocument": {
+                "Version": "2008-10-17",
+                "Statement": [
+                    {
+                        "Effect": "Allow",
+                        "Principal": {
+                            "Service": "ec2.amazonaws.com"
+                        },
+                        "Action": "sts:AssumeRole"
+                    }
+                ]
+            },
+            "InstanceProfileList": [
+                {
+                    "Path": "/",
+                    "InstanceProfileName": "aws-opsworks-ec2-role",
+                    "InstanceProfileId": "AIPAJAAMSJMQSMAEGBYHS",
+                    "Arn": "arn:aws:iam::380379257783:instance-profile/aws-opsworks-ec2-role",
+                    "CreateDate": "2015-11-10T15:08:39+00:00",
+                    "Roles": [
+                        {
+                            "Path": "/",
+                            "RoleName": "aws-opsworks-ec2-role",
+                            "RoleId": "AROAI6GIA5XVMRGYXR34A",
+                            "Arn": "arn:aws:iam::380379257783:role/aws-opsworks-ec2-role",
+                            "CreateDate": "2015-11-10T15:08:39+00:00",
+                            "AssumeRolePolicyDocument": {
+                                "Version": "2008-10-17",
+                                "Statement": [
+                                    {
+                                        "Effect": "Allow",
+                                        "Principal": {
+                                            "Service": "ec2.amazonaws.com"
+                                        },
+                                        "Action": "sts:AssumeRole"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "RolePolicyList": [],
+            "AttachedManagedPolicies": [],
+            "Tags": [],
+            "RoleLastUsed": {}
+        },
+        {
+            "Path": "/",
+            "RoleName": "aws-opsworks-service-role",
+            "RoleId": "AROAJZU6GD2BTECL67ONI",
+            "Arn": "arn:aws:iam::380379257783:role/aws-opsworks-service-role",
+            "CreateDate": "2015-11-10T15:08:39+00:00",
+            "AssumeRolePolicyDocument": {
+                "Version": "2008-10-17",
+                "Statement": [
+                    {
+                        "Effect": "Allow",
+                        "Principal": {
+                            "Service": "opsworks.amazonaws.com"
+                        },
+                        "Action": "sts:AssumeRole"
+                    }
+                ]
+            },
+            "InstanceProfileList": [],
+            "RolePolicyList": [
+                {
+                    "PolicyName": "aws-opsworks-service-policy",
+                    "PolicyDocument": {
+                        "Statement": [
+                            {
+                                "Action": [
+                                    "ec2:*",
+                                    "iam:PassRole",
+                                    "cloudwatch:GetMetricStatistics",
+                                    "cloudwatch:DescribeAlarms",
+                                    "ecs:*",
+                                    "elasticloadbalancing:*",
+                                    "rds:*"
+                                ],
+                                "Effect": "Allow",
+                                "Resource": [
+                                    "*"
+                                ]
+                            }
+                        ]
+                    }
+                }
+            ],
+            "AttachedManagedPolicies": [],
+            "Tags": [],
+            "RoleLastUsed": {}
+        },
+        {
+            "Path": "/",
+            "RoleName": "AWSCloudFormationStackSetExecutionRole",
+            "RoleId": "AROAVREC63O36AWJOEEWO",
+            "Arn": "arn:aws:iam::380379257783:role/AWSCloudFormationStackSetExecutionRole",
+            "CreateDate": "2019-11-04T16:32:36+00:00",
+            "AssumeRolePolicyDocument": {
+                "Version": "2012-10-17",
+                "Statement": [
+                    {
+                        "Effect": "Allow",
+                        "Principal": {
+                            "AWS": "arn:aws:iam::249265253269:root"
+                        },
+                        "Action": "sts:AssumeRole"
+                    }
+                ]
+            },
+            "InstanceProfileList": [],
+            "RolePolicyList": [],
+            "AttachedManagedPolicies": [
+                {
+                    "PolicyName": "AdministratorAccess",
+                    "PolicyArn": "arn:aws:iam::aws:policy/AdministratorAccess"
+                }
+            ],
+            "Tags": [
+                {
+                    "Key": "Team",
+                    "Value": "Infra"
+                }
+            ],
+            "RoleLastUsed": {}
+        }
+    ],
+    "Policies": [],
+    "IsTruncated": true,
+    "Marker": "RAAZW0DCAriEsaMSGiPojeWNarZg1EMgIlvCRCbiKI5LK6KPBEURSh7hSSwGdwM2KT8oDbeDmOL6EGk4DmgzbUjIC",
+    "ResponseMetadata": {
+        "RequestId": "cf7b1559-88a6-4f02-b52d-cae76960d690",
+        "HTTPStatusCode": 200,
+        "HTTPHeaders": {
+            "x-amzn-requestid": "cf7b1559-88a6-4f02-b52d-cae76960d690",
+            "content-type": "text/xml",
+            "content-length": "35618",
+            "vary": "accept-encoding",
+            "date": "Mon, 26 Jul 2021 12:12:34 GMT"
+        },
+        "RetryAttempts": 0
+    }
+}
